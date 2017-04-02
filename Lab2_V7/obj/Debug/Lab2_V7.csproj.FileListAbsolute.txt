@@ -1,0 +1,18 @@
+E:\Lab2_V7\Lab2_V7\bin\Debug\Lab2_V7.exe.config
+E:\Lab2_V7\Lab2_V7\bin\Debug\Lab2_V7.exe
+E:\Lab2_V7\Lab2_V7\bin\Debug\Lab2_V7.pdb
+E:\Lab2_V7\Lab2_V7\obj\Debug\Lab2_V7.csprojResolveAssemblyReference.cache
+E:\Lab2_V7\Lab2_V7\obj\Debug\Lab2_V7.exe
+E:\Lab2_V7\Lab2_V7\obj\Debug\Lab2_V7.pdb
+C:\My Computer\Другое\Студент\Об'єктно-орієнтовне програмування\Лаби\Lab2_V7\Lab2_V7\bin\Debug\Lab2_V7.exe.config
+C:\My Computer\Другое\Студент\Об'єктно-орієнтовне програмування\Лаби\Lab2_V7\Lab2_V7\obj\Debug\Lab2_V7.exe
+C:\My Computer\Другое\Студент\Об'єктно-орієнтовне програмування\Лаби\Lab2_V7\Lab2_V7\obj\Debug\Lab2_V7.pdb
+C:\My Computer\Другое\Студент\Об'єктно-орієнтовне програмування\Лаби\Lab2_V7\Lab2_V7\bin\Debug\Lab2_V7.exe
+C:\My Computer\Другое\Студент\Об'єктно-орієнтовне програмування\Лаби\Lab2_V7\Lab2_V7\bin\Debug\Lab2_V7.pdb
+C:\My Computer\Другое\Студент\Об'єктно-орієнтовне програмування\Лаби\Lab2_V7\Lab2_V7\obj\Debug\Lab2_V7.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\Lab2_V7\Lab2_V7\bin\Debug\Lab2_V7.exe.config
+C:\Users\dinoz\Desktop\Lab2_V7\Lab2_V7\obj\Debug\Lab2_V7.exe
+C:\Users\dinoz\Desktop\Lab2_V7\Lab2_V7\obj\Debug\Lab2_V7.pdb
+C:\Users\dinoz\Desktop\Lab2_V7\Lab2_V7\obj\Debug\Lab2_V7.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\Lab2_V7\Lab2_V7\bin\Debug\Lab2_V7.exe
+C:\Users\dinoz\Desktop\Lab2_V7\Lab2_V7\bin\Debug\Lab2_V7.pdb
